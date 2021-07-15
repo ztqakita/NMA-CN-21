@@ -1,6 +1,5 @@
 # NMA-CN-21
-Self-study of NMA Computational Neuroscience course.
-2021 Computational Neuroscience Summer School @NeuromatchAcademy.
+Self-study of 2021 Computational Neuroscience Summer School @NeuromatchAcademy.
 ## Progress:
   - [ ] W0: PRE-REQS REFRESHER
     - [ ] W0D0: Neuro Video Series
