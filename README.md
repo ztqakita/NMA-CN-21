@@ -8,4 +8,12 @@ Self-study of 2021 Computational Neuroscience Summer School @NeuromatchAcademy.
     - [x] W0D3: Linear Algebra
     - [x] W0D4: Calculus
     - [x] W0D5: Statistics
-  - [ ] W1: INTRO TO MODELING
+  - [x] INTRO TO MODELING
+    - [x] W1D1: Model Types
+    - [x] W1D2: Modeling Practice
+  - [ ] MACHINE LEARNING
+    - [ ] W1D3: Model Fitting
+    - [ ] W1D4: Generalized Linear Model
+    - [ ] W1D5: Dimensionality Reduction
+    - [ ] W2D1: Deep Learning
+  - [ ] DYNAMICAL SYSTEMS
